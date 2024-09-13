@@ -1,4 +1,4 @@
-👋 Hi, I’m @brianhall-data
+👋 Hi, I’m Brian Hall
 👀 I’m interested in UX design, data analytics, and how creativity intersects with technology.
 🌱 I’m currently learning advanced UX design techniques and exploring data visualization.
 💞️ I’m looking to collaborate on user-focused projects that blend design with data insights.
